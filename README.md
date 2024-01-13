@@ -1,5 +1,5 @@
 <h2>Softİto Academy Graduation Project: Calorie Tracking Flutter App</h2>
-
+ 
 <h3>About the Project</h3>
 
 This project is the final assignment of the 2-month Flutter Mobile App course at Softİto Academy, affiliated with the Istanbul Chamber of Commerce. Developed by a team of 5 individuals, the application is a user-friendly mobile app designed for daily calorie tracking.
