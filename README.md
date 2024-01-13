@@ -41,8 +41,6 @@ Youtube: https://www.youtube.com/watch?v=4sStI_OrP5Y
 
 <h3>Screenshots</h3>
 
-<img src=[Screenshot_1705049868](https://github.com/Barisalisaglam/eatwise_project_last_version/assets/153231088/da426dc6-5ebf-42d4-af85-f0c8469adfa7 width="200" height="400" />
-
 //Splash Screen</br>
 ![Screenshot_1705049868](https://github.com/Barisalisaglam/eatwise_project_last_version/assets/153231088/da426dc6-5ebf-42d4-af85-f0c8469adfa7)</br>
 
